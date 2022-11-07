@@ -4,7 +4,7 @@ import Childa from './Childa';
 
 const Propdrilling = () => {
  
-    const [name] = useState("Ankitha Shettigar")    
+    const [name] = useState("Tanu")    
   return (
     <div style={{textAlign:"center"}}>
         <Childa firstName={name}/>
